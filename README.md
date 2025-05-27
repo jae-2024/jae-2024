@@ -1,7 +1,3 @@
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=header" width=100% />
-</div>
-
 <div>
   <img alt="stats" align="left" src="https://github-readme-stats.vercel.app/api?username=jae-2024&show_icons=true&theme=holi" width = "49%" height="130%" />
   <img alt="algorithms" src="http://mazassumnida.wtf/api/generate_badge?boj=jajasang123" width="42%" height="100%"/>
