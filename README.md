@@ -1,9 +1,6 @@
-<a>
-  <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=jae-2024&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" width = "49%"/>
-</a>
-<a>
-  <img alt="stats" src="https://github-readme-stats.vercel.app/api?username=jae-2024&show_icons=true&theme=holi" width = "59%" height="130%" />
-</a>
+<a href="#"><img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jae-2024&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" width="49%"></a>
+<a href="#"><img alt="stats" src="https://github-readme-stats.vercel.app/api?username=jae-2024&show_icons=true&theme=holi" width="49%" height="200"></a>
+
 
 <p>
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Eyes.png" alt="Eyes" width="2%" /> 내가 지금 배우는 ... 
