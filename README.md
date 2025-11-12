@@ -5,7 +5,7 @@
 |[[kakao x goorm] 구름톤 Univ 4기](https://9oormthon.university/)|2025-01 ~ 2025-09|안양대학교 대표로 활동[![Instagram](https://cdn-icons-png.flaticon.com/24/2111/2111463.png)](https://www.instagram.com/9oormthonuniv.ayu/)|
 |[[kakao x goorm] 구름톤 Univ 4기 경인지부](https://github.com/9ITHON)|2025-06 ~ 2025-07|경인지부 해커톤 운영진|
 |[Passtival](https://github.com/Passtival) 프로젝트|2025-06 ~ 2025-09|대학 축제서비스 백엔드 팀원|
-|[[kakao x goorm] 구름톤 Univ 시즌톤 참가](https://github.com/9oormthon-univ/2025_SEASONTHON_TEAM_64_BE)|2025-08 ~ 2025-9|노청마루 서비스 백엔드 팀원 최우수상|
+|[[kakao x goorm] 구름톤 Univ 시즌톤 참가](https://github.com/9oormthon-univ/2025_SEASONTHON_TEAM_64_BE)|2025-08 ~ 2025-09|노청마루 서비스 백엔드 팀원 최우수상|
 
 <a href="#"><img alt="stats" src="https://github-readme-stats.vercel.app/api?username=jae-2024&show_icons=true&theme=holi" width="40%" height="200"></a>
 
